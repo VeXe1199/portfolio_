@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Builder.ai",
+    "image": "/build.png",
+    "description": "A platform for web developers to build websites",
+    "tags": [
+      "typescript",
+      "node",
+      "tailwind",
+      "react",
+      "gemini-api",
+      "web-containers"
+    ],
+    "source_code": "https://github.com/VeXe1199/Builder.ai"
+  },
+  {
+    "id": 2,
+    "name": "Question-pair-similarity",
+    "image": "/121.png",
+    "description": "Identify duplicates using Classical ML models",
+    "tags": [
+      "xgboost",
+      "svm",
+      "random-forest",
+      "bert"
+    ],
+    "source_code": "https://github.com/VeXe1199/Question-pair-similarity"
+  },
+  {
+    "id": 3,
+    "name": "UniPay",
+    "image": "https://unipay.com/wp-content/uploads/2024/12/unipay_logo_dark-8564506.svg",
+    "description": "Web2 wallet for university students",
+    "tags": [
+      "react",
+      "node",
+      "mongodb",
+      "express"
+    ],
+    "source_code": "https://github.com/VeXe1199/Uni-Pay/tree/master"
+  },
+  {
+    "id": 4,
+    "name": "Unused GraphQL Fields",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg",
+    "description": "GraphQL Utility Package",
+    "tags": [
+      "graphql",
+      "typescript"
+    ],
+    "source_code": "https://github.com/VeXe1199/Unused-fields--GraphQL/tree/main"
+  }
+]

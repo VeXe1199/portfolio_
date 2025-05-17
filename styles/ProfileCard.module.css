@@ -58,3 +58,16 @@
 .underline:hover {
     background-size: 100% 88%;
 }
+
+.imageBox {
+    display: flex;
+    justify-content: flex-start;
+    /* Aligns the image to the left */
+    margin-left: 2px;
+    /* Moves the image slightly to the left */
+}
+
+.projectImage {
+    object-fit: contain;
+    margin: auto;
+}

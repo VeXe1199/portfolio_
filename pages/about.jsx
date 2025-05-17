@@ -7,11 +7,12 @@ const AboutPage = () => {
     return (
       <>
         <h3>- Undergraduate Student at Indian Institute of Information Technology Allahabad</h3>
-        <h3>- Competitive Programmer and Developer</h3>
-        <h3>- Languages: C++, C, JavaScript, TypeScript , Java , SQL</h3>
+        <h3>- Competitive Programmer and Machine learning </h3>
+        <h3>- Languages: C++, C, Python , JavaScript, TypeScript , Java , SQL</h3>
         <h3>- Frameworks: C++ STL, ReactJS, ExpressJS, LaTeX</h3>
         <h3>- Web Development Tools: HTML, CSS, Node.js, Git, GitHub, Linux</h3>
-        <h3>- Databases & Tools: MongoDB, Relational Database (RDBMS) - SQL/MySQL, GraphQL</h3>
+        <h3>- Databases & Tools: MongoDB, Relational Database (RDBMS)- SQL/MySQL, Pinecone, FAISS (by Facebook), NodeJs,
+Git, Github, Linux</h3>
       </>
     );
   };

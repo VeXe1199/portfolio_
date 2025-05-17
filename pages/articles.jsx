@@ -5,7 +5,7 @@ const ResumePage = () => {
     <div className={styles.container}>
       <h3 className={styles.title}></h3>
       <iframe
-        src="https://drive.google.com/file/d/15qVGk8z8M0JzxMlb4mR0U7shD5MZdWNJ/preview"
+        // src="https://drive.google.com/file/d/15qVGk8z8M0JzxMlb4mR0U7shD5MZdWNJ/preview"
         title="Resume"
         className={styles.iframe} // Apply the CSS module class
       ></iframe>

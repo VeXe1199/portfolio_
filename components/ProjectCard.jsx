@@ -9,8 +9,8 @@ const ProjectCard = ({ project }) => {
           src={project.image}
           alt={`${project.platform} Logo`}
           className={styles.projectImage}
-          width={300}
-          height={200}
+          width={200}
+          height={150}
         />
       </div>
       <div className={styles.content}>

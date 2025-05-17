@@ -11,8 +11,8 @@ const ProfileCard = ({ profile }) => {
                     src={profile.image}
                     alt={`${profile.platform} Logo`}
                     className={styles.profileImage}
-                    width={380}
-                    height={200}
+                    width={250}
+                    height={150}
                 />
             </div>
             <div className={styles.content}>
